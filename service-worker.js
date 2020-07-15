@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/grill-time/precache-manifest.d61d10ac0633e4bd97f219928bf497ae.js"
+  "/grill-time/precache-manifest.6c44569e706549b8852670cde26186d4.js"
 );
 
 self.addEventListener('message', (event) => {

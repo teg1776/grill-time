@@ -1,6 +1,6 @@
 import React from "react";
 
-function Landing({ handleMeat }) {
+function Landing() {
   return (
     <div className="landing">
       <div className="landingContent">

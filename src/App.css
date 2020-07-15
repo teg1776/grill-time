@@ -1,12 +1,6 @@
 body {
-  margin: 0 auto;
-}
-
-.App {
-  /* background: whitesmoke; */
-  /* overflow: hidden; */
-  height: 100vh;
-  
+  margin: 0;
+  padding: 0;
 }
 
 .content {
@@ -32,8 +26,7 @@ body {
 }
 
 .landing {
-  height: 100vh;
-  overflow: hidden;
+  /* overflow: hidden; */
   letter-spacing: 1.5px;
 }
 

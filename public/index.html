@@ -29,10 +29,7 @@
       href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;600;700&display=swap"
       rel="stylesheet"
     />
-    <script
-      defer
-      src="https://unpkg.com/smoothscroll-polyfill@0.4.4/dist/smoothscroll.min.js"
-    ></script>
+
     <title>Grill Time Calculator</title>
   </head>
   <body>
@@ -48,5 +45,10 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+    <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@15.0.0/dist/smooth-scroll.polyfills.min.js"></script>
+    <!-- <script src="../src/scroll.js"></script> -->
+    <script>
+      const scroll = new SmoothScroll('.meats a[href*="#"]');
+    </script>
   </body>
 </html>

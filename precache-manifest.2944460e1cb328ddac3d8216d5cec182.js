@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a32897b4bf92543541a017f724a21c2d",
+    "revision": "d71cc45413ab795fb1a14d3d09f4e378",
     "url": "/grill-time/index.html"
   },
   {
-    "revision": "3fc002aa5654f9866f3a",
+    "revision": "047df72f0d659a88cf0a",
     "url": "/grill-time/static/css/main.a071b0dc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/grill-time/static/js/2.02da2dec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3fc002aa5654f9866f3a",
-    "url": "/grill-time/static/js/main.72bd9587.chunk.js"
+    "revision": "047df72f0d659a88cf0a",
+    "url": "/grill-time/static/js/main.6eaf2adc.chunk.js"
   },
   {
     "revision": "54f95e5b2a3c71a8431e",

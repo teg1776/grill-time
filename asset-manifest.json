@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/grill-time/static/css/main.ec9b0e1f.chunk.css",
+    "main.js": "/grill-time/static/js/main.337abe08.chunk.js",
+    "main.js.map": "/grill-time/static/js/main.337abe08.chunk.js.map",
+    "runtime-main.js": "/grill-time/static/js/runtime-main.4bee3601.js",
+    "runtime-main.js.map": "/grill-time/static/js/runtime-main.4bee3601.js.map",
+    "static/js/2.02da2dec.chunk.js": "/grill-time/static/js/2.02da2dec.chunk.js",
+    "static/js/2.02da2dec.chunk.js.map": "/grill-time/static/js/2.02da2dec.chunk.js.map",
+    "index.html": "/grill-time/index.html",
+    "precache-manifest.1a92070d14e4075a72c6d5c706a5992a.js": "/grill-time/precache-manifest.1a92070d14e4075a72c6d5c706a5992a.js",
+    "service-worker.js": "/grill-time/service-worker.js",
+    "static/css/main.ec9b0e1f.chunk.css.map": "/grill-time/static/css/main.ec9b0e1f.chunk.css.map",
+    "static/js/2.02da2dec.chunk.js.LICENSE.txt": "/grill-time/static/js/2.02da2dec.chunk.js.LICENSE.txt",
+    "static/media/grill.png": "/grill-time/static/media/grill.758da7b9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bee3601.js",
+    "static/js/2.02da2dec.chunk.js",
+    "static/css/main.ec9b0e1f.chunk.css",
+    "static/js/main.337abe08.chunk.js"
+  ]
+}
